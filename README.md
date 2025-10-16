@@ -24,3 +24,4 @@ Designed an interactive sales dashboard in Power BI to analyze company-wide perf
 - Actionable insights for better decision-making
 
 6. Screenshot / Demos
+https://github.com/dasmanav034-code/Sales-dashboard/blob/main/Sales%20Performance%20Analysis%20Screenshot.png
